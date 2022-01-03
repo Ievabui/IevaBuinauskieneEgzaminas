@@ -1,0 +1,23 @@
+@import "~bootstrap";
+
+#omdb {
+  height: 150px;
+  width: 200px;
+}
+
+.result, #omdb {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.card-text {
+  font-weight: bolder;
+}
+
+

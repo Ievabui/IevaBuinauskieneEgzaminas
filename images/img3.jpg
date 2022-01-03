@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-GB">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-GB">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-GB">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>The Orchard Film Club | Harwell Village Hall</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.harwellvillagehall.co.uk/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen/js/html5.js?ver=3.7.0"></script>
+	<![endif]-->
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Harwell Village Hall &raquo; Feed" href="https://www.harwellvillagehall.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Harwell Village Hall &raquo; Comments Feed" href="https://www.harwellvillagehall.co.uk/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Harwell Village Hall &raquo; iCal Feed" href="https://www.harwellvillagehall.co.uk/events/?ical=1" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.harwellvillagehall.co.uk\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.harwellvillagehall.co.uk/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen/genericons/genericons.css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen-child/style.css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-block-style-css'  href='https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen/css/blocks.css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen/css/ie.css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='parent-style-css'  href='https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen/style.css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen-child/style.css' media='all' />
+<script src='https://www.harwellvillagehall.co.uk/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script src='https://www.harwellvillagehall.co.uk/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.harwellvillagehall.co.uk/wp-json/" /><link rel="alternate" type="application/json" href="https://www.harwellvillagehall.co.uk/wp-json/wp/v2/pages/2534" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.harwellvillagehall.co.uk/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://www.harwellvillagehall.co.uk/the-orchard-film-club/" />
+<link rel='shortlink' href='https://www.harwellvillagehall.co.uk/?p=2534' />
+<link rel="alternate" type="application/json+oembed" href="https://www.harwellvillagehall.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.harwellvillagehall.co.uk%2Fthe-orchard-film-club%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.harwellvillagehall.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.harwellvillagehall.co.uk%2Fthe-orchard-film-club%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.harwellvillagehall.co.uk"><link rel="alternate" href="https://www.harwellvillagehall.co.uk/wp-json/tribe/events/v1/" /><style id="custom-background-css">
+body.custom-background { background-color: #2476bf; }
+</style>
+	
+<!-- Styles cached and displayed inline for speed. Generated by http://stylesplugin.com -->
+<style type="text/css" id="styles-plugin-css">
+.styles .featured-content{background-color:#2476bf}.styles .featured-content .entry-header{background-color:#2476bf}.styles .grid .featured-content .entry-header,.styles .featured-content .entry-header{border-color:#2476bf!important}.styles .featured-content .entry-title a:hover{color:#000!important}.styles .featured-content .entry-meta a:hover{color:#000!important}.styles .slider-direction-nav a{background-color:#2476bf}.styles .slider-direction-nav a:before{color:#fff}.styles #page{background-color:#fff}.styles #page a:hover{color:#000}.styles #page #masthead{background:#2476bf url()}.styles #page .site-title{font-size:30px}.styles #page .site-title a{color:#fff!important}.styles #page .site-title a:hover{color:#000!important}.styles #masthead .primary-navigation li a,.styles #masthead .primary-navigation li > a{font-size:16px}.styles #masthead .primary-navigation li a:hover,.styles #masthead .primary-navigation li:hover > a{color:#000}.styles .primary-navigation ul ul,.styles .primary-navigation ul ul a:hover,.styles .primary-navigation ul ul li.focus > a,.styles .primary-navigation li:hover > a,.styles .primary-navigation li > a:hover,.styles .primary-navigation li.focus > a,.styles .primary-navigation li.focus > a{background-color:#1e73be}.styles .site-navigation .current-menu-item > a,.styles .site-navigation .current-menu-ancestor > a,.styles .site-navigation .current_page_item > a,.styles .site-navigation .current_page_ancestor > a{color:#000!important}.styles .site:before,.styles #secondary{background-color:#2476bf}.styles .primary-sidebar .widget{font-size:13px;font-family:'Trebuchet MS',Tahoma,Helvetica,sans-serif}.styles .footer-sidebar .widget-title,.styles .widget_calendar caption{font-size:20px}.styles .footer-sidebar .widget,.styles footer-sidebar .widget ul li,.styles footer-sidebar .widget a{font-size:18px}.styles .site-footer{background-color:#8ba5bf}.styles #page .site-info a{font-size:12px}
+</style>
+</head>
+
+<body class="page-template-default page page-id-2534 custom-background wp-embed-responsive tribe-no-js styles masthead-fixed footer-widgets singular">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="https://www.harwellvillagehall.co.uk/" rel="home">Harwell Village Hall</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-alisons-menu-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-4448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4448"><a href="https://www.harwellvillagehall.co.uk/">Home</a></li>
+<li id="menu-item-2353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2353"><a href="#">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1819"><a href="https://www.harwellvillagehall.co.uk/organisation/">Organisation</a></li>
+	<li id="menu-item-1820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1820"><a href="https://www.harwellvillagehall.co.uk/contact-us/">Contact us</a></li>
+	<li id="menu-item-1822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1822"><a href="https://www.harwellvillagehall.co.uk/find-us/">How to find us</a></li>
+	<li id="menu-item-1823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1823"><a href="https://www.harwellvillagehall.co.uk/links/">Links</a></li>
+</ul>
+</li>
+<li id="menu-item-2338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2338"><a href="#">Booking the Hall</a>
+<ul class="sub-menu">
+	<li id="menu-item-1824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1824"><a href="https://www.harwellvillagehall.co.uk/book-a-hall/">How To Book the Hall</a></li>
+	<li id="menu-item-1826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1826"><a href="https://www.harwellvillagehall.co.uk/calendar/">Calendar</a></li>
+	<li id="menu-item-1827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1827"><a href="https://www.harwellvillagehall.co.uk/charges/">Charges</a></li>
+	<li id="menu-item-2813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2813"><a href="#">The Halls</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2454"><a href="https://www.harwellvillagehall.co.uk/the-orchard-hall/">The Orchard Hall</a></li>
+		<li id="menu-item-2453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2453"><a href="https://www.harwellvillagehall.co.uk/the-cherry-hall/">The Cherry Hall</a></li>
+		<li id="menu-item-2460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2460"><a href="https://www.harwellvillagehall.co.uk/the-committee-room/">The Committee Room</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3295"><a href="#">Info</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2318"><a href="https://www.harwellvillagehall.co.uk/faq/">Frequently Asked Questions</a></li>
+		<li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2887"><a href="https://www.harwellvillagehall.co.uk/instructions/">Guide to using the halls</a></li>
+		<li id="menu-item-2881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2881"><a href="https://www.harwellvillagehall.co.uk/parking-at-harwell-village-hall/">Parking</a></li>
+		<li id="menu-item-3719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3719"><a href="https://www.harwellvillagehall.co.uk/performances/">Performances in Orchard Hall</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3296"><a href="#">Admin</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1825"><a href="https://www.harwellvillagehall.co.uk/booking-agreement/">Terms &#038; Conditions</a></li>
+		<li id="menu-item-4011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4011"><a href="https://www.harwellvillagehall.co.uk/privacy-policy/">Privacy Policy</a></li>
+		<li id="menu-item-3297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297"><a href="https://www.harwellvillagehall.co.uk/bouncy-castles/">Bouncy Castles</a></li>
+		<li id="menu-item-2175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2175"><a href="https://www.harwellvillagehall.co.uk/premises-licence/">Village Hall Premises Licence</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2812"><a href="https://www.harwellvillagehall.co.uk/our-regular-users/">Our regular users</a></li>
+</ul>
+</li>
+<li id="menu-item-2940" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2940"><a href="#">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-4552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4552"><a href="https://www.harwellvillagehall.co.uk/events/">Events</a></li>
+	<li id="menu-item-2539" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2534 current_page_item menu-item-2539"><a href="https://www.harwellvillagehall.co.uk/the-orchard-film-club/" aria-current="page">The Orchard Film Club</a></li>
+	<li id="menu-item-3906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3906"><a href="#">Harwell Parish History Group</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1840"><a href="https://www.harwellvillagehall.co.uk/history-group/">Harwell Parish History Group</a></li>
+		<li id="menu-item-2847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2847"><a href="https://www.harwellvillagehall.co.uk/events-talks-and-exhibitions/">Events, Talks and Exhibitions</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3904"><a href="https://www.harwellvillagehall.co.uk/the-heritage-centre/">Harwell Heritage Centre</a></li>
+<li id="menu-item-3897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3897"><a href="#">Village Hall History</a>
+<ul class="sub-menu">
+	<li id="menu-item-1845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1845"><a href="https://www.harwellvillagehall.co.uk/village-hall-history/">Village Hall History 1913 – 2018</a></li>
+	<li id="menu-item-2356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2356"><a href="#">Hall Redevelopment Project 2010 &#8211; 2018</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1831"><a href="https://www.harwellvillagehall.co.uk/hall-redevelopment-project/">The Hall Redevelopment Project</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1839"><a href="https://www.harwellvillagehall.co.uk/help/">Why we needed to do the project</a></li>
+			<li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://www.harwellvillagehall.co.uk/architects-impressions/">Architects impressions</a></li>
+			<li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1841"><a href="https://www.harwellvillagehall.co.uk/revised-plans/">Building Plans</a></li>
+			<li id="menu-item-1844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1844"><a href="https://www.harwellvillagehall.co.uk/landscaping/">Landscaping</a></li>
+			<li id="menu-item-1832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1832"><a href="https://www.harwellvillagehall.co.uk/key-steps/">Costs and Key Steps</a></li>
+			<li id="menu-item-1837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1837"><a href="https://www.harwellvillagehall.co.uk/fundraising-for-the-redevelopment-project/">Raising the Money</a></li>
+			<li id="menu-item-2861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861"><a href="https://www.harwellvillagehall.co.uk/the-build-blog/">The Build Blog</a></li>
+			<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862"><a href="https://www.harwellvillagehall.co.uk/the-build-looking-back-in-time/">The Build – Looking Back in Time in Pictures</a></li>
+		</ul>
+</li>
+		<li id="menu-item-3252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3252"><a href="https://www.harwellvillagehall.co.uk/our-sponsors/">Our Sponsors</a></li>
+		<li id="menu-item-3247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3247"><a href="https://www.harwellvillagehall.co.uk/grand-opening-and-celebration-event/">Grand Opening and Celebration Event</a></li>
+		<li id="menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1833"><a href="https://www.harwellvillagehall.co.uk/fundraising/">Project Completion</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="https://www.harwellvillagehall.co.uk/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+<div id="main-content" class="main-content">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			
+<article id="post-2534" class="post-2534 page type-page status-publish hentry">
+	<header class="entry-header"><h1 class="entry-title">The Orchard Film Club</h1></header><!-- .entry-header -->
+	<div class="entry-content">
+		<p><img loading="lazy" class="alignnone size-full wp-image-2542" src="http://www.harwellvillagehall.co.uk/wp-content/uploads/2017/03/film-012.jpg" alt="" width="4455" height="1418" srcset="https://www.harwellvillagehall.co.uk/wp-content/uploads/2017/03/film-012.jpg 4455w, https://www.harwellvillagehall.co.uk/wp-content/uploads/2017/03/film-012-300x95.jpg 300w, https://www.harwellvillagehall.co.uk/wp-content/uploads/2017/03/film-012-768x244.jpg 768w, https://www.harwellvillagehall.co.uk/wp-content/uploads/2017/03/film-012-1024x326.jpg 1024w" sizes="(max-width: 4455px) 100vw, 4455px" /></p>
+<p>Welcome to the Orchard Film Club!</p>
+<p>Originally set up in November 2016 to hold monthly film events to raise money for the Harwell Village Hall Redevelopment  Project, the Orchard Film Club became an independent organisation in January 2019.  We are a charitable organisation run by volunteers and any surplus profits are allocated to a local charity at the end of the financial year.</p>
+<p style="text-align: left;">Membership is free and a film ticket costs around £5.  Tickets can be purchased at Bob&#8217;s Butchers in Harwell High Street from about 2 weeks before the film date, on the door on the night, or by sending an email request to:<br />
+<a href="mailto:orchardfilmclub@gmail.com">orchardfilmclub@gmail.com</a></p>
+<p><!-- Begin MailChimp Signup Form --></p>
+<div id="mc_embed_signup">
+<form id="mc-embedded-subscribe-form" class="validate" action="https://harwellvillagehall.us18.list-manage.com/subscribe/post?u=224c1625307536866cb5ac4e8&amp;id=2bd282620d" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<p>We are now able to take credit and debit card payments on the night for tickets and bar purchases.</p>
+<h3>Subscribe to our mailing list</h3>
+<p class="indicates-required"><span class="asterisk">*</span> indicates required field</p>
+<h5 class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><br />
+<input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></h5>
+<h5 class="mc-field-group"><label for="mce-FNAME">First Name </label><br />
+<input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></h5>
+<h5 class="mc-field-group"><label for="mce-LNAME">Last Name </label><br />
+<input id="mce-LNAME" class="" name="LNAME" type="text" value="" /></h5>
+<h5 class="mc-field-group input-group"><strong>Email Format </strong></h5>
+<ul>
+<li><input id="mce-EMAILTYPE-0" name="EMAILTYPE" type="radio" value="html" /><label for="mce-EMAILTYPE-0">html</label></li>
+<li><input id="mce-EMAILTYPE-1" name="EMAILTYPE" type="radio" value="text" /><label for="mce-EMAILTYPE-1">text</label></li>
+</ul>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" class="response" style="display: none;"></div>
+<div id="mce-success-response" class="response" style="display: none;"></div>
+</div>
+<p><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--></p>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input tabindex="-1" name="b_224c1625307536866cb5ac4e8_2bd282620d" type="text" value="" /></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe" /></div>
+</div>
+</form>
+</div>
+<p><!--End mc_embed_signup--></p>
+<p>We are planning to run on the first Friday of the month going forwards (except for August).  We aim to show a variety of films including recent releases, classic titles, musicals, drama and comedy.  See below for upcoming dates.</p>
+<p>Start time is always 7.30pm with doors and bar opening at 7pm.</p>
+<p>Many thanks to all who voted in our recent poll to choose the next films.  Dates and film choices planned for the upcoming months are:</p>
+<ul>
+<li>Friday 12th November &#8211; Finding your Feet (12A)</li>
+<li>Friday 10th December &#8211; Emma (U)</li>
+<li>Friday 7th January 2022 &#8211; The Father (12A)</li>
+<li>Friday 4th February &#8211; Summerland (12)</li>
+<li>Friday 4th March &#8211; Radioactive (12)</li>
+<li>Friday 1st April &#8211; The White Crow (12)</li>
+</ul>
+<p><img loading="lazy" class="alignnone wp-image-4883 size-large" src="https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/chosen-711x1024.png" alt="" width="474" height="683" srcset="https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/chosen-711x1024.png 711w, https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/chosen-208x300.png 208w, https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/chosen-768x1107.png 768w, https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/chosen-1066x1536.png 1066w, https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/chosen.png 1166w" sizes="(max-width: 474px) 100vw, 474px" /></p>
+<p>If you have any suggestions or would like to join our team, email us on <a href="mailto:orchardfilmclub@gmail.com">orchardfilmclub@gmail.com</a>.</p>
+<p>We look forward to seeing you all soon!  Stay safe and keep well, with best wishes from Alison, Martin and Janice.</p>
+	</div><!-- .entry-content -->
+</article><!-- #post-2534 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	<aside id="search-3" class="widget widget_search"><h1 class="widget-title">Search this site</h1><form role="search" method="get" class="search-form" action="https://www.harwellvillagehall.co.uk/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="tribe-events-list-widget-3" class="widget tribe-events-list-widget"><h1 class="widget-title">Upcoming Events</h1>
+	<ol class="tribe-list-widget">
+					<li class="tribe-events-list-widget-events type-tribe_events post-4889 tribe-clearfix tribe-events-category-film tribe-events-venue-2941 tribe-events-organizer-2942">
+				
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="https://www.harwellvillagehall.co.uk/event/orchard-film-club-the-father/" rel="bookmark">Orchard Film Club &#8211; The Father</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">Friday, 7 January @ 7:00 PM</span> - <span class="tribe-event-time">10:30 PM</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-4737 tribe-clearfix tribe-events-category-music tribe-events-organizer-3067">
+				
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="https://www.harwellvillagehall.co.uk/event/big-ginger-tom-music-present-joe-hicks-with-support-from-steady-habits/" rel="bookmark">Big Ginger Tom Music presents Joe Hicks with support from Steady Habits</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">Saturday, 22 January @ 7:00 PM</span> - <span class="tribe-event-time">10:30 PM</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-4893 tribe-clearfix tribe-events-category-film tribe-events-venue-2941 tribe-events-organizer-2942">
+				
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="https://www.harwellvillagehall.co.uk/event/orchard-film-club-summerland/" rel="bookmark">Orchard Film Club &#8211; Summerland</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">Friday, 4 February @ 7:00 PM</span> - <span class="tribe-event-time">10:30 PM</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-4164 tribe-clearfix tribe-events-category-music tribe-events-venue-2941 tribe-events-organizer-3067">
+				
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="https://www.harwellvillagehall.co.uk/event/big-ginger-tom-presents-the-askew-sisters-with-support-from-dom-prag/" rel="bookmark">Big Ginger Tom Music presents The Askew Sisters with support from Steve Warner</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">Friday, 18 February @ 7:00 PM</span> - <span class="tribe-event-time">10:30 PM</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-4896 tribe-clearfix tribe-events-category-film tribe-events-venue-2941 tribe-events-organizer-2942">
+				
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="https://www.harwellvillagehall.co.uk/event/orchard-film-club-radioactive/" rel="bookmark">Orchard Film Club &#8211; Radioactive</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">Friday, 4 March @ 7:00 PM</span> - <span class="tribe-event-time">10:30 PM</span>				</div>
+
+							</li>
+			</ol><!-- .tribe-list-widget -->
+
+	<p class="tribe-events-widget-link">
+		<a href="https://www.harwellvillagehall.co.uk/events/" rel="bookmark">View All Events</a>
+	</p>
+
+</aside><script type="application/ld+json">
+[{"@context":"http://schema.org","@type":"Event","name":"Orchard Film Club &#8211; The Father","description":"&lt;p&gt;Having just scared off his recent caregiver, Anthony, an ailing, octogenarian Londoner gradually succumbing to dementia, feels abandoned when concerned Anne, his daughter, tells him she\\'s moving to Paris. Confused and upset, against the backdrop of a warped perspective and his rapid, heart-rending mental decline, Anthony is starting to lose his grip on reality, struggling &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/event/orchard-film-club-the-father/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Orchard Film Club &#8211; The Father&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","image":"https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/the-father-colour-portrait.png","url":"https://www.harwellvillagehall.co.uk/event/orchard-film-club-the-father/","startDate":"2022-01-07T19:00:00+00:00","endDate":"2022-01-07T22:30:00+00:00","location":{"@type":"Place","name":"Orchard Hall","description":"","url":"","address":{"@type":"PostalAddress"},"telephone":"","sameAs":""},"organizer":{"@type":"Person","name":"Orchard Film Club","description":"&lt;p&gt;Set up in November 2016 to hold monthly film events to raise money for the Harwell Village Hall Redevelopment\u00a0 Project, now any profit goes towards the general upkeep and maintenance of the hall and it\u2019s fixtures and fittings. Membership is free and a film ticket costs \u00a35 and can be purchased on the night at &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/organizer/orchard-film-club/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Orchard Film Club&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","url":"https://www.harwellvillagehall.co.uk/the-orchard-film-club/","telephone":"07884 475907","email":"o&#114;&#99;h&#97;&#114;&#100;film&#99;&#108;u&#98;&#64;g&#109;a&#105;&#108;.com","sameAs":"https://www.harwellvillagehall.co.uk/the-orchard-film-club/"},"offers":{"@type":"Offer","price":"5","priceCurrency":"\u00a3","url":"https://www.harwellvillagehall.co.uk/event/orchard-film-club-the-father/","category":"primary","availability":"inStock","validFrom":"2021-11-07T00:00:00+00:00"},"performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"Big Ginger Tom Music presents Joe Hicks with support from Steady Habits","description":"&lt;p&gt;Big Ginger Tom Music are very pleased to be able to bring Joe Hicks to Harwell Village Hall. He and his friend Adam Barnes sold out one of our Lean To Sessions in Abingdon in January 2020 and it will be great to have Joe with his full band in Harwell. Raised in the rural &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/event/big-ginger-tom-music-present-joe-hicks-with-support-from-steady-habits/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Big Ginger Tom Music presents Joe Hicks with support from Steady Habits&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","image":"https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/04/Live-Strongroom-Joe-Hicks.jpg","url":"https://www.harwellvillagehall.co.uk/event/big-ginger-tom-music-present-joe-hicks-with-support-from-steady-habits/","startDate":"2022-01-22T19:00:00+00:00","endDate":"2022-01-22T22:30:00+00:00","organizer":{"@type":"Person","name":"Big Ginger Tom Music","description":"&lt;p&gt;About Us Our history Having been to 150+ gigs in the last 2 years or so as far afield as Bournemouth, Gateshead, Cardiff and Cambridge. \u00a0We wanted to put on our own events on, so we could have the indulgence of seeing who we wanted to when we wanted to locally in Oxfordshire. Our music &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/organizer/big-ginger-tom-music/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Big Ginger Tom Music&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","url":"http://www.biggingertommusic.co.uk","telephone":"07999 052720","email":"b&#105;&#103;&#103;in&#103;&#101;&#114;t&#111;m&#109;&#117;&#115;ic&#64;gmai&#108;.&#99;&#111;m","sameAs":"http://www.biggingertommusic.co.uk"},"offers":{"@type":"Offer","price":"15","priceCurrency":"\u00a3","url":"https://www.harwellvillagehall.co.uk/event/big-ginger-tom-music-present-joe-hicks-with-support-from-steady-habits/","category":"primary","availability":"inStock","validFrom":"2021-04-18T00:00:00+00:00"},"performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"Orchard Film Club &#8211; Summerland","description":"&lt;p&gt;Alice is a reclusive writer, resigned to a solitary life on the seaside cliffs of Southern England while World War II rages across the channel.\u00a0 When she opens her front door one day to find she\\'s to adopt a young London evacuee named Frank, she\\'s resistant.\u00a0 It\\'s not long, however, before the two realize they &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/event/orchard-film-club-summerland/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Orchard Film Club &#8211; Summerland&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","image":"https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/summerland-colour-portrait.png","url":"https://www.harwellvillagehall.co.uk/event/orchard-film-club-summerland/","startDate":"2022-02-04T19:00:00+00:00","endDate":"2022-02-04T22:30:00+00:00","location":{"@type":"Place","name":"Orchard Hall","description":"","url":"","address":{"@type":"PostalAddress"},"telephone":"","sameAs":""},"organizer":{"@type":"Person","name":"Orchard Film Club","description":"&lt;p&gt;Set up in November 2016 to hold monthly film events to raise money for the Harwell Village Hall Redevelopment\u00a0 Project, now any profit goes towards the general upkeep and maintenance of the hall and it\u2019s fixtures and fittings. Membership is free and a film ticket costs \u00a35 and can be purchased on the night at &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/organizer/orchard-film-club/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Orchard Film Club&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","url":"https://www.harwellvillagehall.co.uk/the-orchard-film-club/","telephone":"07884 475907","email":"&#111;&#114;cha&#114;&#100;&#102;i&#108;m&#99;lu&#98;&#64;gma&#105;l&#46;co&#109;","sameAs":"https://www.harwellvillagehall.co.uk/the-orchard-film-club/"},"offers":{"@type":"Offer","price":"5","priceCurrency":"\u00a3","url":"https://www.harwellvillagehall.co.uk/event/orchard-film-club-summerland/","category":"primary","availability":"inStock","validFrom":"2021-11-07T00:00:00+00:00"},"performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"Big Ginger Tom Music presents The Askew Sisters with support from Steve Warner","description":"&lt;p&gt;Emily and Hazel Askew have become known as two of the foremost performers and interpreters of English folk music. Their live performances brim with the depth and connection not only of two sisters, but also of two musicians who have been immersed in folk music all their lives. Together, they rework and reinterpret songs and &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/event/big-ginger-tom-presents-the-askew-sisters-with-support-from-dom-prag/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Big Ginger Tom Music presents The Askew Sisters with support from Steve Warner&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","image":"https://www.harwellvillagehall.co.uk/wp-content/uploads/2019/12/askew-sisters.png","url":"https://www.harwellvillagehall.co.uk/event/big-ginger-tom-presents-the-askew-sisters-with-support-from-dom-prag/","startDate":"2022-02-18T19:00:00+00:00","endDate":"2022-02-18T22:30:00+00:00","location":{"@type":"Place","name":"Orchard Hall","description":"","url":"","address":{"@type":"PostalAddress"},"telephone":"","sameAs":""},"organizer":{"@type":"Person","name":"Big Ginger Tom Music","description":"&lt;p&gt;About Us Our history Having been to 150+ gigs in the last 2 years or so as far afield as Bournemouth, Gateshead, Cardiff and Cambridge. \u00a0We wanted to put on our own events on, so we could have the indulgence of seeing who we wanted to when we wanted to locally in Oxfordshire. Our music &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/organizer/big-ginger-tom-music/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Big Ginger Tom Music&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","url":"http://www.biggingertommusic.co.uk","telephone":"07999 052720","email":"&#98;&#105;g&#103;&#105;&#110;g&#101;rt&#111;&#109;&#109;&#117;&#115;&#105;&#99;&#64;g&#109;&#97;&#105;&#108;.com","sameAs":"http://www.biggingertommusic.co.uk"},"offers":{"@type":"Offer","price":"15","priceCurrency":"\u00a3","url":"https://www.harwellvillagehall.co.uk/event/big-ginger-tom-presents-the-askew-sisters-with-support-from-dom-prag/","category":"primary","availability":"inStock","validFrom":"2019-12-01T00:00:00+00:00"},"performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"Orchard Film Club &#8211; Radioactive","description":"&lt;p&gt;From the 1870s through our 21st century, \\'Radioactive\\' tells the story of pioneering scientist Marie Curie through her extraordinary life and her enduring legacies \u2013 the passionate partnerships, her shining scientific breakthroughs, and the darker consequences that followed. Starring Rosamund Pike as Marie and Sam Riley as her husband Pierre Curie. Trailer: https://www.youtube.com/watch?v=mU0oOUTo5zo Tickets are &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/event/orchard-film-club-radioactive/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Orchard Film Club &#8211; Radioactive&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","image":"https://www.harwellvillagehall.co.uk/wp-content/uploads/2021/11/radioactive-colour-portrait.png","url":"https://www.harwellvillagehall.co.uk/event/orchard-film-club-radioactive/","startDate":"2022-03-04T19:00:00+00:00","endDate":"2022-03-04T22:30:00+00:00","location":{"@type":"Place","name":"Orchard Hall","description":"","url":"","address":{"@type":"PostalAddress"},"telephone":"","sameAs":""},"organizer":{"@type":"Person","name":"Orchard Film Club","description":"&lt;p&gt;Set up in November 2016 to hold monthly film events to raise money for the Harwell Village Hall Redevelopment\u00a0 Project, now any profit goes towards the general upkeep and maintenance of the hall and it\u2019s fixtures and fittings. Membership is free and a film ticket costs \u00a35 and can be purchased on the night at &hellip; &lt;a href=&quot;https://www.harwellvillagehall.co.uk/organizer/orchard-film-club/&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Orchard Film Club&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;&rarr;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n","url":"https://www.harwellvillagehall.co.uk/the-orchard-film-club/","telephone":"07884 475907","email":"&#111;rcha&#114;d&#102;i&#108;&#109;clu&#98;&#64;g&#109;&#97;&#105;l.com","sameAs":"https://www.harwellvillagehall.co.uk/the-orchard-film-club/"},"offers":{"@type":"Offer","price":"5","priceCurrency":"\u00a3","url":"https://www.harwellvillagehall.co.uk/event/orchard-film-club-radioactive/","category":"primary","availability":"inStock","validFrom":"2021-11-07T00:00:00+00:00"},"performer":"Organization"}]
+</script></div><!-- #content-sidebar -->
+</div><!-- #main-content -->
+
+<div id="secondary">
+		<h2 class="site-description">A venue for all in Harwell, Oxfordshire</h2>
+	
+	
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+<div id="supplementary">
+	<div id="footer-sidebar" class="footer-sidebar widget-area" role="complementary">
+		<aside id="text-10" class="widget widget_text"><h1 class="widget-title">Harwell Village Hall</h1>			<div class="textwidget"><p>Charity Number 1157858</p>
+</div>
+		</aside>	</div><!-- #footer-sidebar -->
+</div><!-- #supplementary -->
+
+			<div class="site-info">
+								<a class="privacy-policy-link" href="https://www.harwellvillagehall.co.uk/privacy-policy/">Privacy Policy</a><span role="separator" aria-hidden="true"></span>				<a href="https://wordpress.org/" class="imprint">
+					Proudly powered by WordPress				</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+			<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel='stylesheet' id='tribe-events-custom-jquery-styles-css'  href='https://www.harwellvillagehall.co.uk/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css' media='all' />
+<link rel='stylesheet' id='tribe-events-bootstrap-datepicker-css-css'  href='https://www.harwellvillagehall.co.uk/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-style-css'  href='https://www.harwellvillagehall.co.uk/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css' media='all' />
+<script src='https://www.harwellvillagehall.co.uk/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script src='https://www.harwellvillagehall.co.uk/wp-includes/js/masonry.min.js' id='masonry-js'></script>
+<script src='https://www.harwellvillagehall.co.uk/wp-includes/js/jquery/jquery.masonry.min.js' id='jquery-masonry-js'></script>
+<script src='https://www.harwellvillagehall.co.uk/wp-content/themes/twentyfourteen/js/functions.js' id='twentyfourteen-script-js'></script>
+<script src='https://www.harwellvillagehall.co.uk/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+</body>
+</html>
